@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033258361711",
+    "project_id": "online-app---riski",
+    "storage_bucket": "online-app---riski.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033258361711:android:97b574ddfb7b5e86d43e9a",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033258361711-mqqqh0rvu0c8tunaj564abc8jaopr796.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_app",
+            "certificate_hash": "de8128dcec82eeccb5d11c0aa103bf1b1af46d78"
+          }
+        },
+        {
+          "client_id": "1033258361711-2qkr5jljbpnrtgfpnvkv6osc8m35cqeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABij8x9x2PLFjTtT_ldTKGAxctnnUt12I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033258361711-2qkr5jljbpnrtgfpnvkv6osc8m35cqeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
